@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20849#The-Big-BrotherA-Story-of-Indian-War
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-03-18'
 gutenberg_type: Text

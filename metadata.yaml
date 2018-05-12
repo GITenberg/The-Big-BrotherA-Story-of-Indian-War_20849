@@ -1,0 +1,34 @@
+_repo: The-Big-BrotherA-Story-of-Indian-War_20849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Famines -- Juvenile fiction'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Creek War, 1813-1814 -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+title: 'The Big Brother: A Story of Indian War'
+url: http://www.gutenberg.org/ebooks/20849
